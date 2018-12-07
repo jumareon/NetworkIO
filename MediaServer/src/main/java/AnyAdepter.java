@@ -11,7 +11,7 @@ import org.jboss.netty.channel.socket.nio.NioServerSocketChannelFactory;
 
 public class AnyAdepter
 {
-private static final int port = 1935;
+	private static final int port = 1935;
 	
 	public static void main(String[] args)
 	{
