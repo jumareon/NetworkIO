@@ -3,7 +3,6 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/NetworkTest/pom.xml" />
         <option value="$PROJECT_DIR$/MediaServer/pom.xml" />
       </list>
     </option>
